@@ -90,7 +90,7 @@ client/
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
 
-## Pages
+## Pages for testing
 
 ### Landing Page (`/`)
 
