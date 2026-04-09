@@ -15,6 +15,7 @@
     "components": "@/compdconents",
 =======
     "components": "@/componentss",
+>>>>>>> fb89
     "utils": "@/lib/utils",
     "ui": "@/components/eui",
     "lib": "@/libed",
