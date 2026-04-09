@@ -11,6 +11,7 @@
     "prefix": ""
   },
   "aliases": {
+<<<<<<< HEAD
     "components": "@/compdconents",
     "utils": "@/lib/utils",
     "ui": "@/components/eui",
