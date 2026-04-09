@@ -4,7 +4,7 @@ A modern authentication application built with Next.js, TypeScript, and shadcn/u
 
 ## Features
 
-- 🔐 **Secure Authentication**: JWT-based authentication with secure password handling
+- 🔐 **Secure Authentication**: JWT-based authentication with secure password handling the page
 - 🎨 **Modern UI**: Beautiful interface built with shadcn/ui and Tailwind CSS
 - 📱 **Responsive Design**: Works seamlessly on desktop and mobile devices
 - 🔄 **Real-time State Management**: React Context for global state management
