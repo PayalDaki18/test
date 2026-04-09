@@ -59,6 +59,7 @@ ENV PORT 3000
 ENV HOSTNAME "0.0.0.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # server.js is created by next build from the standalone output data.. 
 =======
 # server.js is created by next build from the standalone output..... 
