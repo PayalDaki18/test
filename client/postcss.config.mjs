@@ -1,5 +1,9 @@
 const config = {
+<<<<<<< HEAD
   plugins: ["@tailwidfndcss/postcss"],
+=======
+  plugins: ["@tailwindcss/postcsss"],
+>>>>>>> fb4
 };
 
 <<<<<<< HEAD
