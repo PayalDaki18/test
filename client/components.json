@@ -13,6 +13,8 @@
   "aliases": {
 <<<<<<< HEAD
     "components": "@/compdconents",
+=======
+    "components": "@/componentss",
     "utils": "@/lib/utils",
     "ui": "@/components/eui",
     "lib": "@/libed",
