@@ -37,7 +37,7 @@ RUN adduser --system --uid 1001 nextjs
 
 COPY --from=builder /app/public ./public
 
-# Set the correct permission for prerender cache
+# Set the correct permission for prerender cache tested for test 
 RUN mkdir .next
 RUN chown nextjs:nodejs .next
 
@@ -58,6 +58,6 @@ ENV PORT 3000
 # set hostname to localhost
 ENV HOSTNAME "0.0.0.0"
 
-# server.js is created by next build from the standalone output.. 
+# server.js is created by next build from the standalone output data.. 
 # https://nextjs.org/docs/pages/api-reference/next-config-js/output
 CMD ["node", "server.js"] 
