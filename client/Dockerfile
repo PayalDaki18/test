@@ -55,8 +55,10 @@ USER nextjs
 EXPOSE 3000
 
 ENV PORT 3000
+# set hostname to localhost 
 ENV HOSTNAME "0.0.0.0"
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -69,6 +71,11 @@ ENV HOSTNAME "0.0.0.0"
 >>>>>>> FB789
 =======
 # server.js is created by next build from the output.. 
+>>>>>>> fb2
+=======
+# server.js is created by next build from the standalone output data.. 
+
+
 >>>>>>> fb2
 # https://nextjs.org/docs/pages/api-reference/next-config-js/output
 CMD ["node", "server.js"] 
