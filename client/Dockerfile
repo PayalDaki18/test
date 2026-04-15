@@ -47,7 +47,7 @@ COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./
 COPY --from=builder --chown=nextjs:nodejs /app/.next/static ./.next/static
 
 # Create a directory for static files that can be mounted
-RUN mkdir -p /app/static
+RUN mkdir -p /apps/static
 RUN chown nextjs:nodejs /app/static
 
 USER nextjs
