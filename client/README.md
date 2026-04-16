@@ -13,7 +13,7 @@ A modern authentication application built with Next.js, TypeScript, and shadcn/u
 
 ## Tech Stack
 
-- **Framework**: Next.js 15 with App Router
+- **Framework**: Next.js 15 with App Routers
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **UI Components**: shadcn/ui
