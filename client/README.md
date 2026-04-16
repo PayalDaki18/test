@@ -17,7 +17,7 @@ A modern authentication application built with Next.js, TypeScript, and shadcn/u
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **UI Components**: shadcn/ui
-- **State Management**: React Context APIs
+- **State Management**: React Context API
 - **HTTP Client**: Fetch API with custom wrapper
 
 ## Project Structure
