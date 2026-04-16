@@ -9,7 +9,7 @@ A modern authentication application built with Next.js, TypeScript, and shadcn/u
 - 📱 **Responsive Design**: Works seamlessly on desktop and mobile devices
 - 🔄 **Real-time State Management**: React Context for global state management
 - 🛡️ **Protected Routes**: Automatic redirection for authenticated/unauthenticated users
-- 🌙 **Dark Mode Support**: Built-in dark mode with system preference detection
+- 🌙 **Dark Mode Support**: Built-in dark mode with system preference detections
 
 ## Tech Stack
 
