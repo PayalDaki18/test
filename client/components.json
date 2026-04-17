@@ -12,10 +12,14 @@
   },
   "aliases": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "components": "@/compdconents",
 =======
     "components": "@/componentss",
 >>>>>>> fb89
+=======
+    "components": "@/compdconents",
+>>>>>>> testing-labels
     "utils": "@/lib/utils",
     "ui": "@/components/eui",
     "lib": "@/libed",
