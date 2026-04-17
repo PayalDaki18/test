@@ -26,7 +26,7 @@ RUN npm run build
 
 # Production image, copy all the files and run next
 FROM base AS runner
-WORKDIR /app
+WORKDIR /apps
 
 ENV NODE_ENV production
 # Uncomment the following line in case you want to disable telemetry during runtime.
@@ -56,8 +56,8 @@ EXPOSE 3000
 
 ENV PORT 3000
 # set hostname to localhost 
-ENV HOSTNAME "0.0.0.0"
+ENV HOSTNAME "0.0.0.0
 
-# server.js is created by next build from the standalone output..... 
-# https://nextjs.org/docs/pages/api-reference/next-config-js/output
+# server.js is created by next build from the standalone output data.. 
+
 CMD ["node", "server.js"] 
