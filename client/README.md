@@ -200,12 +200,3 @@ NEXT_PUBLIC_APP_VERSION=1.0.0
 ## License
 
 This project is licensed under the MIT License.
-
-## Features
-
-- 🔐 **Secure Authentication**: JWT-based authentication with secure password handling the page
-- 🎨 **Modern UI**: Beautiful interface built with shadcn/ui and Tailwind CSS
-- 📱 **Responsive Design**: Works seamlessly on desktop and mobile devices
-- 🔄 **Real-time State Management**: React Context for global state management
-- 🛡️ **Protected Routes**: Automatic redirection for authenticated/unauthenticated users
-- 🌙 **Dark Mode Support**: Built-in dark mode with system preference detection
