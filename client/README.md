@@ -4,7 +4,7 @@ A modern authentication application built with Next.js, TypeScript, and shadcn/u
 
 ## Features
 
-- 🔐 **Secure Authentication**: JWT-based authentication with secure password handling
+- 🔐 **Secure Authentication**: JWT-based authentication with secure password handling the page
 - 🎨 **Modern UI**: Beautiful interface built with shadcn/ui and Tailwind CSS
 - 📱 **Responsive Design**: Works seamlessly on desktop and mobile devices
 - 🔄 **Real-time State Management**: React Context for global state management
@@ -188,15 +188,3 @@ NEXT_PUBLIC_API_URL=https://your-api-domain.com
 NEXT_PUBLIC_APP_NAME=MFY Jumpick Auth
 NEXT_PUBLIC_APP_VERSION=1.0.0
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
