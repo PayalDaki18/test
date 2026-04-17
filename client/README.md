@@ -209,3 +209,11 @@ This project is licensed under the MIT License.
 - 🔄 **Real-time State Management**: React Context for global state management
 - 🛡️ **Protected Routes**: Automatic redirection for authenticated/unauthenticated users
 - 🌙 **Dark Mode Support**: Built-in dark mode with system preference detection
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests if applicable
+5. Submit a pull request
