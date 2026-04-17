@@ -202,7 +202,6 @@ NEXT_PUBLIC_APP_VERSION=1.0.0
 ## License
 
 This project is licensed under the MIT License.
-<<<<<<< HEAD
 
 ### Environment Variables
 
