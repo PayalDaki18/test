@@ -62,6 +62,7 @@ ENV HOSTNAME "0.0.0.0"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # server.js is created by next build from the standalone output data.. 
 =======
 # server.js is created by next build from the standalone output..... 
@@ -77,5 +78,8 @@ ENV HOSTNAME "0.0.0.0"
 
 
 >>>>>>> fb2
+=======
+# server.js is created by next build from the standalone output data.. 
+>>>>>>> testing-labels
 # https://nextjs.org/docs/pages/api-reference/next-config-js/output
 CMD ["node", "server.js"] 
