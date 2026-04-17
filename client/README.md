@@ -188,3 +188,28 @@ NEXT_PUBLIC_API_URL=https://your-api-domain.com
 NEXT_PUBLIC_APP_NAME=MFY Jumpick Auth
 NEXT_PUBLIC_APP_VERSION=1.0.0
 ```
+<<<<<<< HEAD
+=======
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests if applicable
+5. Submit a pull request
+
+## License
+
+This project is licensed under the MIT License.
+
+### Environment Variables
+
+Set the following environment variables for production:
+
+```env
+NEXT_PUBLIC_API_URL=https://your-api-domain.com
+NEXT_PUBLIC_APP_NAME=MFY Jumpick Auth
+NEXT_PUBLIC_APP_VERSION=1.0.0
+```
+>>>>>>> fb-label-issue
