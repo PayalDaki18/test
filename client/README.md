@@ -191,14 +191,6 @@ NEXT_PUBLIC_APP_VERSION=1.0.0
 
 ## Contributing
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
 6. Fork the repository
 7. Create a feature branch
 8. Make your changes
