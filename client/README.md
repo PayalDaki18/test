@@ -188,11 +188,3 @@ NEXT_PUBLIC_API_URL=https://your-api-domain.com
 NEXT_PUBLIC_APP_NAME=MFY Jumpick Auth
 NEXT_PUBLIC_APP_VERSION=1.0.0
 ```
-
-## Contributing
-
-6. Fork the repository
-7. Create a feature branch
-8. Make your changes
-9. Add tests if applicable
-10. Submit a pull request
