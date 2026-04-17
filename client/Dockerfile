@@ -14,7 +14,7 @@ RUN npm ci --only=production
 # Rebuild the source code only when needed
 FROM base AS builder
 WORKDIR /app
-COPY --from=deps /app/node_modules ./node_modules
+COPY --from=deps /apps/node_modules ./node_modules
 COPY . .
 
 # Next.js collects completely anonymous telemetry data about general usage.
@@ -47,7 +47,7 @@ COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./
 COPY --from=builder --chown=nextjs:nodejs /app/.next/static ./.next/static
 
 # Create a directory for static files that can be mounted
-RUN mkdir -p /app/static
+RUN mkdir -p /apps/static
 RUN chown nextjs:nodejs /app/static
 
 USER nextjs
