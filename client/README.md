@@ -180,6 +180,7 @@ npm run start
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Environment Variables
 
 Set the following environment variables for production:
