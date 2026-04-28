@@ -195,6 +195,9 @@ NEXT_PUBLIC_APP_VERSION=1.0.0
 =======
 >>>>>>> jenkins-test
 ## Contributing
+=======
+## Contributing the code
+>>>>>>> jenkins-test
 
 1. Fork the repository
 2. Create a feature branch
