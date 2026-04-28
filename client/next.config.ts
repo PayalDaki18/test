@@ -58,7 +58,7 @@ const nextConfig: NextConfig = {
     CUSTOM_KEY: process.env.CUSTOM_KEY,
   },
 
-  // Image optimization
+  // Image optimization here
   images: {
     domains: ["lh3.googleusercontent.com", "localhost", "images.pexels.com"],
     formats: ["image/webp", "image/avif"],
