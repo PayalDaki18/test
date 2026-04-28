@@ -179,7 +179,7 @@ npm run build
 npm run start
 ```
 
-## Contributing
+## Contributing the code
 
 1. Fork the repository
 2. Create a feature branch
