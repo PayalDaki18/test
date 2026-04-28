@@ -36,7 +36,7 @@ const nextConfig: NextConfig = {
           },
         ],
       },
-      // Add specific headers for static assets
+
       {
         source: "/_next/static/(.*)",
         headers: [
