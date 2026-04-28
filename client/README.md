@@ -191,6 +191,8 @@ NEXT_PUBLIC_APP_VERSION=1.0.0
 
 # <<<<<<< HEAD
 
+=======
+>>>>>>> jenkins-test
 ## Contributing
 
 1. Fork the repository
@@ -218,4 +220,6 @@ NEXT_PUBLIC_APP_VERSION=1.0.0
 >>>>>>> tested
 =======
 
+>>>>>>> jenkins-test
+=======
 >>>>>>> jenkins-test
