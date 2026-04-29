@@ -232,6 +232,7 @@ NEXT_PUBLIC_APP_VERSION=1.0.0
 ```
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> tested
 =======
