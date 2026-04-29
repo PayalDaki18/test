@@ -191,6 +191,11 @@ NEXT_PUBLIC_API_URL=https://your-api-domain.com
 NEXT_PUBLIC_APP_NAME=MFY Jumpick Auth
 NEXT_PUBLIC_APP_VERSION=1.0.0
 ```
+<<<<<<< HEAD
+=======
+
+# <<<<<<< HEAD
+>>>>>>> devops-test
 
 # <<<<<<< HEAD
 
@@ -236,3 +241,5 @@ NEXT_PUBLIC_APP_VERSION=1.0.0
 >>>>>>> jenkins-test
 =======
 >>>>>>> jenkins-test
+=======
+>>>>>>> devops-test
