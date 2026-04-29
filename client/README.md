@@ -231,6 +231,7 @@ NEXT_PUBLIC_APP_NAME=MFY Jumpick Auth
 NEXT_PUBLIC_APP_VERSION=1.0.0
 
 
+
 ```
 <<<<<<< HEAD
 <<<<<<< HEAD
