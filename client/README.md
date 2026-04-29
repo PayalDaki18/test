@@ -233,3 +233,5 @@ NEXT_PUBLIC_APP_VERSION=1.0.0
 >>>>>>> jenkins-test
 =======
 >>>>>>> jenkins-test
+=======
+>>>>>>> jenkins-test
