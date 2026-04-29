@@ -218,6 +218,7 @@ This project is licensed under the MIT License.
 
 Set the following environment variables for production:
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ```env
 NEXT_PUBLIC_API_URL=https://your-api-domain.com
