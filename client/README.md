@@ -250,3 +250,6 @@ NEXT_PUBLIC_APP_NAME=MFY Jumpick Auth
 >>>>>>> jenkins-test
 =======
 >>>>>>> devops-test
+=======
+<<<<<<< HEAD
+>>>>>>> fb1
