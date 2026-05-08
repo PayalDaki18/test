@@ -52,7 +52,7 @@ RUN chown nextjs:nodejs /app/static
 
 USER nextjs
 
-EXPOSE 3000
+EXPOSE 8000
 
 ENV PORT 3000
 # set hostname to localhost 
