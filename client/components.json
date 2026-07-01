@@ -6,4 +6,4 @@
     "css": "src/app/globals.css",
     "baseColor": "neutral",
     "cssVariables": true,
-    "prefix": ""
+    "prefix": """
