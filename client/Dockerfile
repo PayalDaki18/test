@@ -11,7 +11,7 @@ WORKDIR /app
 COPY package.json package-lock.json* ./
 RUN npm ci --only=production
 
-# Rebuild the source code only when needed
+# Rebuild the source code only when needed fgt
 FROM base AS builder
 WORKDIR /app
 COPY --from=deps /apps/node_modules ./node_modules
